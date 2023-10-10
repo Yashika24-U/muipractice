@@ -14,7 +14,7 @@ function App() {
   })
  
   return (
-  
+  // Themes
   <ThemeProvider theme = {darkTheme}>
   <Box bgcolor={"background.default"} color={"text.primary"}>
     <Navbar/>
